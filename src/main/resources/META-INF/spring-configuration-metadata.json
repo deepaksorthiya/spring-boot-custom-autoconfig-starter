@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "json-placeholder-service.base-url",
+      "type": "java.lang.String",
+      "defaultValue": "https://jsonplaceholder.typicode.com",
+      "description": "Http Connection URL for json place holder service"
+    }
+  ]
+}
